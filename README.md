@@ -27,5 +27,5 @@ Alguns dos projetos que venho desenvolvendo e que você pode explorar aqui no me
 
 ### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://www.linkedin.com/in/heitorcosta-dev/)
-[![E-mail](mailto:heitor.fdcosta@gmail.com)
+(https://www.linkedin.com/in/heitorcosta-dev/)
+(mailto:heitor.fdcosta@gmail.com)
